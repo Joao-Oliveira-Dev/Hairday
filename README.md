@@ -26,6 +26,6 @@ Projeto feito como parte dos estudos de FullStack da Rockeatseat, sendo essa, a 
 
  Na seção sobre (about) do projeto, via GitHub, você pode visualizar o link que te leva direto para o portifólio! 
 <br>
- Ou se preferir você clicar <a href="">Aqui!</a>
+ Ou se preferir você clicar <a href="https://joao-oliveira-dev.github.io/Hairday/"> Aqui! </a>
 
- E aqui se encontra o link por extenso: 
+ E aqui se encontra o link por extenso: https://joao-oliveira-dev.github.io/Hairday/
